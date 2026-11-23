@@ -14,6 +14,8 @@ cd hw1_data_engineering
 
 docker compose up -d
 
+прогнать ноутбук
+
 7. Вывод последней ячейки 
 
 AED  nominal=   1  value=   22.369400  rub/unit=22.369400
